@@ -1,0 +1,88 @@
+@import '../../../../styles/animations.scss';
+@import '../../../../styles/breakpoints.scss';
+$menuItemColor: var(--primary-color);
+$menuItemHoverColor: var(--text-color);
+$menuItemActiveColor: $menuItemHoverColor;
+$underlineColor: var(--underline-color);
+
+.menu {
+  display: flex;
+  gap: 3rem;
+  transition: all $animationTransition;
+}
+
+@media screen and (min-width: $lg) {
+  .menu {
+    gap: 5rem;
+  }
+}
+
+.main-menu-item {
+  position: relative;
+  user-select: none;
+  display: block;
+  cursor: pointer;
+  padding: 0.1rem 0;
+  text-decoration: none;
+  color: $menuItemColor;
+  transition: color $animationTransition;
+  h4 {
+    margin-bottom: 0;
+  }
+  &:hover {
+    color: $menuItemHoverColor;
+    text-decoration: none;
+  }
+  &:before,
+  &:after {
+    content: '';
+    position: absolute;
+    width: 0%;
+    height: 2px;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: $underlineColor;
+  }
+  &:after {
+    background: $underlineColor;
+    transition: width $animationTransition;
+  }
+  &.active:before {
+    background: $underlineColor;
+    width: 100%;
+    transition: width $animationTransition;
+  }
+  &.active:after {
+    background: transparent;
+    width: 100%;
+    transition: 0s;
+  }
+}
+
+.active {
+  color: $menuItemActiveColor;
+  &:before,
+  &:after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: $underlineColor;
+  }
+}
+
+.menu-item-icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+.menu-item-icon__label {
+  text-transform: capitalize;
+  color: inherit;
+  text-align: center;
+}

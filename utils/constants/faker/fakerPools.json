@@ -1,0 +1,1652 @@
+{
+  "0x8ad599c3a0ff1de082011efddc58f1908eb6e6d8": {
+    "data": {
+      "address": "0x8ad599c3a0ff1de082011efddc58f1908eb6e6d8",
+      "feeTier": 3000,
+      "liquidity": 10652591613175415000,
+      "sqrtPrice": 1.5517224492179758e33,
+      "tick": 197660,
+      "token0": {
+        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token1": {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "derivedETH": 1
+      },
+      "token0Price": 2606.940271432244,
+      "token1Price": 0.00038359145046718056,
+      "volumeUSD": 59843940.310157776,
+      "volumeUSDChange": -45.091236119040516,
+      "volumeUSDWeek": 880248081.4836121,
+      "tvlUSD": 314209939.6723957,
+      "tvlUSDChange": 0.6670391792662475,
+      "tvlToken0": 140026668.482201,
+      "tvlToken1": 66815.21364296506
+    },
+    "lastUpdated": 1643502074633
+  },
+  "0xcbcdf9626bc03e24f779434178a73a0b4bad62ed": {
+    "data": {
+      "address": "0xcbcdf9626bc03e24f779434178a73a0b4bad62ed",
+      "feeTier": 3000,
+      "liquidity": 904707418542043300,
+      "sqrtPrice": 3.0356404732538233e34,
+      "tick": 257136,
+      "token0": {
+        "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "derivedETH": 14.680522112469838
+      },
+      "token1": {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "derivedETH": 1
+      },
+      "token0Price": 0.06811746832563852,
+      "token1Price": 14.680522112469838,
+      "volumeUSD": 19798653.648563385,
+      "volumeUSDChange": -54.77583349329335,
+      "volumeUSDWeek": 333231507.56599045,
+      "tvlUSD": 261430414.41723356,
+      "tvlUSDChange": 0.6822276057212435,
+      "tvlToken0": 3023.36222611,
+      "tvlToken1": 56095.30761920192
+    },
+    "lastUpdated": 1643502074633
+  },
+  "0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640": {
+    "data": {
+      "address": "0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640",
+      "feeTier": 500,
+      "liquidity": 19979449737511510000,
+      "sqrtPrice": 1.5517467330445466e33,
+      "tick": 197661,
+      "token0": {
+        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token1": {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "derivedETH": 1
+      },
+      "token0Price": 2606.8586782331336,
+      "token1Price": 0.00038360345666216787,
+      "volumeUSD": 513708026.56463623,
+      "volumeUSDChange": -37.93204518410394,
+      "volumeUSDWeek": 7862776475.780075,
+      "tvlUSD": 224387506.82795018,
+      "tvlUSDChange": 3.965051432570081,
+      "tvlToken0": 115088235.330203,
+      "tvlToken1": 41926.26608882701
+    },
+    "lastUpdated": 1643502074633
+  },
+  "0xc63b0708e2f7e69cb8a1df0e1389a98c35a76d52": {
+    "data": {
+      "address": "0xc63b0708e2f7e69cb8a1df0e1389a98c35a76d52",
+      "feeTier": 500,
+      "liquidity": 4.030733885692096e22,
+      "sqrtPrice": 7.920880635154362e22,
+      "tick": -276329,
+      "token0": {
+        "address": "0x853d955acef822db058eb8505911ed77f175b99e",
+        "name": "Frax",
+        "symbol": "FRAX",
+        "decimals": 18,
+        "derivedETH": 0.0003834040435826184
+      },
+      "token1": {
+        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token0Price": 1.0004887973606407,
+      "token1Price": 0.9995114414454912,
+      "volumeUSD": 2782210.234076977,
+      "volumeUSDChange": -85.10738483055354,
+      "volumeUSDWeek": 91671704.16926503,
+      "tvlUSD": 210971876.30769652,
+      "tvlUSDChange": 0.5274250786708673,
+      "tvlToken0": 113412626.00055753,
+      "tvlToken1": 97612989.165531
+    },
+    "lastUpdated": 1643502074633
+  },
+  "0x3416cf6c708da44db2624d63ea0aaef7113527c6": {
+    "data": {
+      "address": "0x3416cf6c708da44db2624d63ea0aaef7113527c6",
+      "feeTier": 100,
+      "liquidity": 512558625246762300,
+      "sqrtPrice": 7.922288848411016e28,
+      "tick": -2,
+      "token0": {
+        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token1": {
+        "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token0Price": 1.0001331485333746,
+      "token1Price": 0.999866869192797,
+      "volumeUSD": 105742810.55081081,
+      "volumeUSDChange": -31.64956916316343,
+      "volumeUSDWeek": 1211533077.3248577,
+      "tvlUSD": 187194749.272106,
+      "tvlUSDChange": 4.426539099867295,
+      "tvlToken0": 117454777.509687,
+      "tvlToken1": 69739971.762419
+    },
+    "lastUpdated": 1643502074633
+  },
+  "0x5777d92f208679db4b9778590fa3cab3ac9e2168": {
+    "data": {
+      "address": "0x5777d92f208679db4b9778590fa3cab3ac9e2168",
+      "feeTier": 100,
+      "liquidity": 9.728911546872455e23,
+      "sqrtPrice": 7.922931265294841e22,
+      "tick": -276324,
+      "token0": {
+        "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "decimals": 18,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token1": {
+        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token0Price": 0.9999709670500089,
+      "token1Price": 1.0000290337929278,
+      "volumeUSD": 39766953.09664631,
+      "volumeUSDChange": -0.4665665546939416,
+      "volumeUSDWeek": 399217630.17859983,
+      "tvlUSD": 184544324.2207402,
+      "tvlUSDChange": 6.333846292548105,
+      "tvlToken0": 80194250.77865718,
+      "tvlToken1": 104350073.442083
+    },
+    "lastUpdated": 1643502074633
+  },
+  "0x4e68ccd3e89f51c3074ca5072bbac773960dfa36": {
+    "data": {
+      "address": "0x4e68ccd3e89f51c3074ca5072bbac773960dfa36",
+      "feeTier": 3000,
+      "liquidity": 3182339530232533500,
+      "sqrtPrice": 4.043204223929182e24,
+      "tick": -197671,
+      "token0": {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "derivedETH": 1
+      },
+      "token1": {
+        "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token0Price": 0.00038397929855805204,
+      "token1Price": 2604.3070648737453,
+      "volumeUSD": 17621963.749599457,
+      "volumeUSDChange": -50.83181292159308,
+      "volumeUSDWeek": 272723872.31344604,
+      "tvlUSD": 126546582.18973492,
+      "tvlUSDChange": 0.6132107666870643,
+      "tvlToken0": 24848.19326231777,
+      "tvlToken1": 61846411.524424
+    },
+    "lastUpdated": 1643502074633
+  },
+  "0x99ac8ca7087fa4a2a1fb6357269965a2014abc35": {
+    "data": {
+      "address": "0x99ac8ca7087fa4a2a1fb6357269965a2014abc35",
+      "feeTier": 3000,
+      "liquidity": 12612766857831,
+      "sqrtPrice": 1.5478083623105943e30,
+      "tick": 59448,
+      "token0": {
+        "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "derivedETH": 14.680522112469838
+      },
+      "token1": {
+        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token0Price": 0.000026201417667474586,
+      "token1Price": 38165.87379702591,
+      "volumeUSD": 13818097.117939949,
+      "volumeUSDChange": -43.669111851494165,
+      "volumeUSDWeek": 219348563.41772747,
+      "tvlUSD": 104272230.7950607,
+      "tvlUSDChange": 5.187533830687688,
+      "tvlToken0": 1849.98603843,
+      "tvlToken1": 33470963.165516
+    },
+    "lastUpdated": 1643502074633
+  },
+  "0x6c6bc977e13df9b0de53b251522280bb72383700": {
+    "data": {
+      "address": "0x6c6bc977e13df9b0de53b251522280bb72383700",
+      "feeTier": 500,
+      "liquidity": 8.03596025462795e22,
+      "sqrtPrice": 7.922511457544561e22,
+      "tick": -276325,
+      "token0": {
+        "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "decimals": 18,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token1": {
+        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token0Price": 1.0000769452329612,
+      "token1Price": 0.9999230606871522,
+      "volumeUSD": 1733867.680642128,
+      "volumeUSDChange": -88.47389237446596,
+      "volumeUSDWeek": 36284901.5111084,
+      "tvlUSD": 84932943.48523588,
+      "tvlUSDChange": -0.006994514053227933,
+      "tvlToken0": 62170376.798107885,
+      "tvlToken1": 22762566.687128
+    },
+    "lastUpdated": 1643502074633
+  },
+  "0x7379e81228514a1d2a6cf7559203998e20598346": {
+    "data": {
+      "address": "0x7379e81228514a1d2a6cf7559203998e20598346",
+      "feeTier": 3000,
+      "liquidity": 7.352608587190851e24,
+      "sqrtPrice": 7.934608307831578e28,
+      "tick": 29,
+      "token0": {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "derivedETH": 1
+      },
+      "token1": {
+        "address": "0xfe2e637202056d30016725477c5da089ab0a043a",
+        "name": "StakeWise Staked ETH2",
+        "symbol": "sETH2",
+        "decimals": 18,
+        "derivedETH": 0.9970298990101971
+      },
+      "token0Price": 0.9970298990101971,
+      "token1Price": 1.0029789487684888,
+      "volumeUSD": 205166.58159008622,
+      "volumeUSDChange": 527.1472951924046,
+      "volumeUSDWeek": 1011753.569699794,
+      "tvlUSD": 66172955.8607737,
+      "tvlUSDChange": 0.32533814478997586,
+      "tvlToken0": 12953.445675588388,
+      "tvlToken1": 12611.304610936377
+    },
+    "lastUpdated": 1643502074633
+  },
+  "0x00cef0386ed94d738c8f8a74e8bfd0376926d24c": {
+    "data": {
+      "address": "0x00cef0386ed94d738c8f8a74e8bfd0376926d24c",
+      "feeTier": 500,
+      "liquidity": 1.2773941428408992e23,
+      "sqrtPrice": 7.921236151741011e22,
+      "tick": -276329,
+      "token0": {
+        "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+        "name": "Binance USD",
+        "symbol": "BUSD",
+        "decimals": 18,
+        "derivedETH": 0.0003858258806551281
+      },
+      "token1": {
+        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token0Price": 1.0003989925944512,
+      "token1Price": 0.9996011665371469,
+      "volumeUSD": 1759524.0148420036,
+      "volumeUSDChange": 129.21444036965784,
+      "volumeUSDWeek": 4622770.015509009,
+      "tvlUSD": 63955610.45703462,
+      "tvlUSDChange": -0.0007937868645659216,
+      "tvlToken0": 51269397.95496339,
+      "tvlToken1": 12706660.453596
+    },
+    "lastUpdated": 1643502074633
+  },
+  "0xdf50fbde8180c8785842c8e316ebe06f542d3443": {
+    "data": {
+      "address": "0xdf50fbde8180c8785842c8e316ebe06f542d3443",
+      "feeTier": 100,
+      "liquidity": 1.115353712633551e23,
+      "sqrtPrice": 7.923937401988773e22,
+      "tick": -276322,
+      "token0": {
+        "address": "0x956f47f50a910163d8bf957cf5846d573e7f87ca",
+        "name": "Fei USD",
+        "symbol": "FEI",
+        "decimals": 18,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token1": {
+        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token0Price": 0.999717041871941,
+      "token1Price": 1.0002830382160228,
+      "volumeUSD": 36922862.66945964,
+      "volumeUSDChange": 11.711008045748754,
+      "volumeUSDWeek": 205018480.13096562,
+      "tvlUSD": 55782059.91976251,
+      "tvlUSDChange": 0.11546201646535327,
+      "tvlToken0": 12255363.350024505,
+      "tvlToken1": 43526696.569738
+    },
+    "lastUpdated": 1643502074633
+  },
+  "0x97e7d56a0408570ba1a7852de36350f7713906ec": {
+    "data": {
+      "address": "0x97e7d56a0408570ba1a7852de36350f7713906ec",
+      "feeTier": 500,
+      "liquidity": 1.0652130834060032e28,
+      "sqrtPrice": 7.92395105549368e28,
+      "tick": 2,
+      "token0": {
+        "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "decimals": 18,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token1": {
+        "address": "0x853d955acef822db058eb8505911ed77f175b99e",
+        "name": "Frax",
+        "symbol": "FRAX",
+        "decimals": 18,
+        "derivedETH": 0.0003834040435826184
+      },
+      "token0Price": 0.9997135967144227,
+      "token1Price": 1.0002864853359188,
+      "volumeUSD": 1536691.4306958914,
+      "volumeUSDChange": -11.977276723954912,
+      "volumeUSDWeek": 12822247.107850373,
+      "tvlUSD": 53439585.73543403,
+      "tvlUSDChange": 0.0034234283823289108,
+      "tvlToken0": 25200459.603213355,
+      "tvlToken1": 28252929.34254091
+    },
+    "lastUpdated": 1643502074633
+  },
+  "0xc2e9f25be6257c210d7adf0d4cd6e3e881ba25f8": {
+    "data": {
+      "address": "0xc2e9f25be6257c210d7adf0d4cd6e3e881ba25f8",
+      "feeTier": 3000,
+      "liquidity": 1.0041182397074885e24,
+      "sqrtPrice": 1.5516394910006964e27,
+      "tick": -78665,
+      "token0": {
+        "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "decimals": 18,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token1": {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "derivedETH": 1
+      },
+      "token0Price": 2607.2190383753054,
+      "token1Price": 0.0003835504364156348,
+      "volumeUSD": 5133326.684240341,
+      "volumeUSDChange": -52.109733725533424,
+      "volumeUSDWeek": 68855734.05120087,
+      "tvlUSD": 51001030.04680325,
+      "tvlUSDChange": 0.20316841340723432,
+      "tvlToken0": 21164385.047586717,
+      "tvlToken1": 11445.081932323821
+    },
+    "lastUpdated": 1643502074633
+  },
+  "0x025b887e7f62d8b5f1564ba204187452cf27f634": {
+    "data": {
+      "address": "0x025b887e7f62d8b5f1564ba204187452cf27f634",
+      "feeTier": 100,
+      "liquidity": 0,
+      "sqrtPrice": 7.7117016391316e34,
+      "tick": 275783,
+      "token0": {
+        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token1": {
+        "address": "0xefa6903aa49cd539c079ac4b0a090db432615822",
+        "name": "SW Yield Fund",
+        "symbol": "SWYF",
+        "decimals": 18,
+        "derivedETH": 0.0003287351982328948
+      },
+      "token0Price": 1.0555011971074915,
+      "token1Price": 0.9474172106487537,
+      "volumeUSD": 0,
+      "volumeUSDChange": 0,
+      "volumeUSDWeek": 0,
+      "tvlUSD": 50134958.870973594,
+      "tvlUSDChange": 0,
+      "tvlToken0": 32.454946,
+      "tvlToken1": 49611215.65533688
+    },
+    "lastUpdated": 1643502074633
+  },
+  "0x7ed3f364668cd2b9449a8660974a26a092c64849": {
+    "data": {
+      "address": "0x7ed3f364668cd2b9449a8660974a26a092c64849",
+      "feeTier": 500,
+      "liquidity": 306591092046958000000,
+      "sqrtPrice": 8.377623977586879e22,
+      "tick": -275208,
+      "token0": {
+        "address": "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
+        "name": "agEUR",
+        "symbol": "agEUR",
+        "decimals": 18,
+        "derivedETH": 0.00043156593942571665
+      },
+      "token1": {
+        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token0Price": 0.8943704473941553,
+      "token1Price": 1.11810492275724,
+      "volumeUSD": 3160377.9483120143,
+      "volumeUSDChange": -55.742015620385686,
+      "volumeUSDWeek": 32356840.093930006,
+      "tvlUSD": 44627915.253885195,
+      "tvlUSDChange": -0.27576161976423985,
+      "tvlToken0": 24177643.458308578,
+      "tvlToken1": 17594773.082481
+    },
+    "lastUpdated": 1643502074633
+  },
+  "0x4585fe77225b41b697c938b018e2ac67ac5a20c0": {
+    "data": {
+      "address": "0x4585fe77225b41b697c938b018e2ac67ac5a20c0",
+      "feeTier": 500,
+      "liquidity": 154159942080807460,
+      "sqrtPrice": 3.032674073802207e34,
+      "tick": 257117,
+      "token0": {
+        "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "derivedETH": 14.680522112469838
+      },
+      "token1": {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "derivedETH": 1
+      },
+      "token0Price": 0.06825079122132459,
+      "token1Price": 14.651844793376629,
+      "volumeUSD": 18618967.787103653,
+      "volumeUSDChange": -37.1826103219353,
+      "volumeUSDWeek": 300325729.7177391,
+      "tvlUSD": 44165941.94472218,
+      "tvlUSDChange": 0.31309748429092854,
+      "tvlToken0": 643.33100225,
+      "tvlToken1": 7497.242727656765
+    },
+    "lastUpdated": 1643502074633
+  },
+  "0xbb2e5c2ff298fd96e166f90c8abacaf714df14f8": {
+    "data": {
+      "address": "0xbb2e5c2ff298fd96e166f90c8abacaf714df14f8",
+      "feeTier": 500,
+      "liquidity": 1.373790873759243e28,
+      "sqrtPrice": 7.9222994741571085e28,
+      "tick": -2,
+      "token0": {
+        "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "decimals": 18,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token1": {
+        "address": "0x956f47f50a910163d8bf957cf5846d573e7f87ca",
+        "name": "Fei USD",
+        "symbol": "FEI",
+        "decimals": 18,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token0Price": 1.0001304656876169,
+      "token1Price": 0.9998695513314584,
+      "volumeUSD": 106474.6466076374,
+      "volumeUSDChange": -89.17569230210923,
+      "volumeUSDWeek": 33367928.13795042,
+      "tvlUSD": 41729282.58914375,
+      "tvlUSDChange": 66.73006186058912,
+      "tvlToken0": 21742874.996946108,
+      "tvlToken1": 19986407.59219764
+    },
+    "lastUpdated": 1643502074633
+  },
+  "0x8f8ef111b67c04eb1641f5ff19ee54cda062f163": {
+    "data": {
+      "address": "0x8f8ef111b67c04eb1641f5ff19ee54cda062f163",
+      "feeTier": 3000,
+      "liquidity": 1565034151647360300,
+      "sqrtPrice": 1.5481867320700993e36,
+      "tick": 335777,
+      "token0": {
+        "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "derivedETH": 14.680522112469838
+      },
+      "token1": {
+        "address": "0x8e870d67f660d95d5be530380d0ec0bd388289e1",
+        "name": "Paxos Standard",
+        "symbol": "PAX",
+        "decimals": 18,
+        "derivedETH": 0.0003844625007770347
+      },
+      "token0Price": 0.000026188612219075434,
+      "token1Price": 38184.53576824561,
+      "volumeUSD": 1277924.0954685211,
+      "volumeUSDChange": -18.551508787765307,
+      "volumeUSDWeek": 18726777.5744372,
+      "tvlUSD": 38397633.33834443,
+      "tvlUSDChange": 0.35235428780116945,
+      "tvlToken0": 496.28498569,
+      "tvlToken1": 19360226.667646702
+    },
+    "lastUpdated": 1643502074633
+  },
+  "0x11b815efb8f581194ae79006d24e0d814b7697f6": {
+    "data": {
+      "address": "0x11b815efb8f581194ae79006d24e0d814b7697f6",
+      "feeTier": 500,
+      "liquidity": 3855868402960635400,
+      "sqrtPrice": 4.0461433859186067e24,
+      "tick": -197657,
+      "token0": {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "derivedETH": 1
+      },
+      "token1": {
+        "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token0Price": 0.0003834216478046854,
+      "token1Price": 2608.0947847509096,
+      "volumeUSD": 100361408.28600311,
+      "volumeUSDChange": 77.59067603689967,
+      "volumeUSDWeek": 714049481.5535583,
+      "tvlUSD": 33088317.319071803,
+      "tvlUSDChange": 1.1463553995704585,
+      "tvlToken0": 6631.271798666183,
+      "tvlToken1": 15800987.816316
+    },
+    "lastUpdated": 1643502074633
+  },
+  "0x54d0975f8667a5527e07a30d00da6832886c8fdb": {
+    "data": {
+      "address": "0x54d0975f8667a5527e07a30d00da6832886c8fdb",
+      "feeTier": 500,
+      "liquidity": 7.340539124869906e24,
+      "sqrtPrice": 7.9140795205598205e28,
+      "tick": -23,
+      "token0": {
+        "address": "0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3",
+        "name": "Magic Internet Money",
+        "symbol": "MIM",
+        "decimals": 18,
+        "derivedETH": 0.00037392029885096006
+      },
+      "token1": {
+        "address": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+        "name": "Wrapped UST Token",
+        "symbol": "UST",
+        "decimals": 18,
+        "derivedETH": 0.00038396610767036797
+      },
+      "token0Price": 1.002209114349033,
+      "token1Price": 0.9977957550800484,
+      "volumeUSD": 0,
+      "volumeUSDChange": 0,
+      "volumeUSDWeek": 0,
+      "tvlUSD": 30544110.82037301,
+      "tvlUSDChange": 20661.51587672619,
+      "tvlToken0": 85233.72030374753,
+      "tvlToken1": 30466501.3135388
+    },
+    "lastUpdated": 1643502074633
+  },
+  "0x3b685307c8611afb2a9e83ebc8743dc20480716e": {
+    "data": {
+      "address": "0x3b685307c8611afb2a9e83ebc8743dc20480716e",
+      "feeTier": 10000,
+      "liquidity": 7.611723739429406e23,
+      "sqrtPrice": 2.2566652880103858e27,
+      "tick": -71173,
+      "token0": {
+        "address": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+        "name": "Fantom Token",
+        "symbol": "FTM",
+        "decimals": 18,
+        "derivedETH": 0.0008112881448777868
+      },
+      "token1": {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "derivedETH": 1
+      },
+      "token0Price": 1232.60768237978,
+      "token1Price": 0.0008112881448777868,
+      "volumeUSD": 1757370.7140185833,
+      "volumeUSDChange": -72.10427598806038,
+      "volumeUSDWeek": 55572476.88204217,
+      "tvlUSD": 30168401.300027423,
+      "tvlUSDChange": -0.7564471045158844,
+      "tvlToken0": 6725655.184964937,
+      "tvlToken1": 6187.949855493599
+    },
+    "lastUpdated": 1643502074633
+  },
+  "0x1d42064fc4beb5f8aaf85f4617ae8b3b5b8bd801": {
+    "data": {
+      "address": "0x1d42064fc4beb5f8aaf85f4617ae8b3b5b8bd801",
+      "feeTier": 3000,
+      "liquidity": 1.503632457089027e23,
+      "sqrtPrice": 5.183806465175125e27,
+      "tick": -54539,
+      "token0": {
+        "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+        "name": "Uniswap",
+        "symbol": "UNI",
+        "decimals": 18,
+        "derivedETH": 0.004280932602526328
+      },
+      "token1": {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "derivedETH": 1
+      },
+      "token0Price": 233.59396020620952,
+      "token1Price": 0.004280932602526328,
+      "volumeUSD": 984576.1041574478,
+      "volumeUSDChange": 264.67148905721086,
+      "volumeUSDWeek": 9396491.603626728,
+      "tvlUSD": 26999843.886850193,
+      "tvlUSDChange": 6.364706952877485,
+      "tvlToken0": 1855592.784017675,
+      "tvlToken1": 2477.5737861810153
+    },
+    "lastUpdated": 1643502074633
+  },
+  "0x290a6a7460b308ee3f19023d2d00de604bcf5b42": {
+    "data": {
+      "address": "0x290a6a7460b308ee3f19023d2d00de604bcf5b42",
+      "feeTier": 3000,
+      "liquidity": 9.429342862513278e23,
+      "sqrtPrice": 2.0204096036560232e27,
+      "tick": -73385,
+      "token0": {
+        "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+        "name": "Matic Token",
+        "symbol": "MATIC",
+        "decimals": 18,
+        "derivedETH": 0.0006503088748001671
+      },
+      "token1": {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "derivedETH": 1
+      },
+      "token0Price": 1537.730821076814,
+      "token1Price": 0.0006503088748001671,
+      "volumeUSD": 4345697.543134689,
+      "volumeUSDChange": -49.13547637266682,
+      "volumeUSDWeek": 64516283.197889805,
+      "tvlUSD": 26670198.567121804,
+      "tvlUSDChange": -0.32676602934086096,
+      "tvlToken0": 7608871.407816806,
+      "tvlToken1": 5346.0419005738195
+    },
+    "lastUpdated": 1643502074633
+  },
+  "0x3e5a6af33cc70646bc46aff0af4b930d92856b18": {
+    "data": {
+      "address": "0x3e5a6af33cc70646bc46aff0af4b930d92856b18",
+      "feeTier": 10000,
+      "liquidity": 151440878315094970000,
+      "sqrtPrice": 1.5320364737217152e27,
+      "tick": -78919,
+      "token0": {
+        "address": "0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3",
+        "name": "Magic Internet Money",
+        "symbol": "MIM",
+        "decimals": 18,
+        "derivedETH": 0.00037392029885096006
+      },
+      "token1": {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "derivedETH": 1
+      },
+      "token0Price": 2674.366711496953,
+      "token1Price": 0.00037392029885096006,
+      "volumeUSD": 2232.6013973914087,
+      "volumeUSDChange": -20.743389089749304,
+      "volumeUSDWeek": 35074.15024748072,
+      "tvlUSD": 22428759.17713409,
+      "tvlUSDChange": 0.7878040849488269,
+      "tvlToken0": 143739.91383212013,
+      "tvlToken1": 8674.219828586352
+    },
+    "lastUpdated": 1643502074633
+  },
+  "0xd83d78108dd0d1dffff11ea3f99871671a52488b": {
+    "data": {
+      "address": "0xd83d78108dd0d1dffff11ea3f99871671a52488b",
+      "feeTier": 3000,
+      "liquidity": 3.685629728367027e23,
+      "sqrtPrice": 1.5525603473712037e27,
+      "tick": -78653,
+      "token0": {
+        "address": "0x8e870d67f660d95d5be530380d0ec0bd388289e1",
+        "name": "Paxos Standard",
+        "symbol": "PAX",
+        "decimals": 18,
+        "derivedETH": 0.0003844625007770347
+      },
+      "token1": {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "derivedETH": 1
+      },
+      "token0Price": 2604.127162094663,
+      "token1Price": 0.00038400582527453733,
+      "volumeUSD": 1208926.105944991,
+      "volumeUSDChange": -51.726680019945015,
+      "volumeUSDWeek": 21884316.95270163,
+      "tvlUSD": 21942072.261156294,
+      "tvlUSDChange": 0.4275271825664759,
+      "tvlToken0": 11293674.653759234,
+      "tvlToken1": 4076.657867483577
+    },
+    "lastUpdated": 1643502074633
+  },
+  "0x64a078926ad9f9e88016c199017aea196e3899e1": {
+    "data": {
+      "address": "0x64a078926ad9f9e88016c199017aea196e3899e1",
+      "feeTier": 3000,
+      "liquidity": 2.2930756162975664e27,
+      "sqrtPrice": 2.74650902270236e33,
+      "tick": 209080,
+      "token0": {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "derivedETH": 1
+      },
+      "token1": {
+        "address": "0xc669928185dbce49d2230cc9b0979be6dc797957",
+        "name": "BitTorrent",
+        "symbol": "BTT",
+        "decimals": 18,
+        "derivedETH": 8.321413580676201e-10
+      },
+      "token0Price": 8.321413580676201e-10,
+      "token1Price": 1201718903.0505316,
+      "volumeUSD": 2123033.703387514,
+      "volumeUSDChange": 0,
+      "volumeUSDWeek": 2123033.703387514,
+      "tvlUSD": 21890913.554476924,
+      "tvlUSDChange": 6.402339649594495,
+      "tvlToken0": 2591.6619434665267,
+      "tvlToken1": 6991692561549.978
+    },
+    "lastUpdated": 1643502074634
+  },
+  "0xe05e653453f733786f2dabae0ffa1e96cfcc4b25": {
+    "data": {
+      "address": "0xe05e653453f733786f2dabae0ffa1e96cfcc4b25",
+      "feeTier": 10000,
+      "liquidity": 1352675081391509,
+      "sqrtPrice": 3.33447921812446e27,
+      "tick": -63364,
+      "token0": {
+        "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+        "name": "HEX",
+        "symbol": "HEX",
+        "decimals": 8,
+        "derivedETH": 0.00006794629520030439
+      },
+      "token1": {
+        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token0Price": 5.645509432653543,
+      "token1Price": 0.17713193325229692,
+      "volumeUSD": 976928.0948969992,
+      "volumeUSDChange": -49.278149444741416,
+      "volumeUSDWeek": 3641765.1705249995,
+      "tvlUSD": 21653076.96210058,
+      "tvlUSDChange": -0.03926852296495258,
+      "tvlToken0": 6603791.96544118,
+      "tvlToken1": 20483334.524466
+    },
+    "lastUpdated": 1643502074634
+  },
+  "0x07f3d316630719f4fc69c152f397c150f0831071": {
+    "data": {
+      "address": "0x07f3d316630719f4fc69c152f397c150f0831071",
+      "feeTier": 500,
+      "liquidity": 2180065635094305,
+      "sqrtPrice": 8.366682388827252e28,
+      "tick": 1090,
+      "token0": {
+        "address": "0xc581b735a1688071a1746c968e0798d642ede491",
+        "name": "Euro Tether",
+        "symbol": "EURT",
+        "decimals": 6,
+        "derivedETH": 0.00042455491462143577
+      },
+      "token1": {
+        "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token0Price": 0.8967112156762653,
+      "token1Price": 1.115186229990263,
+      "volumeUSD": 1644681.9172008038,
+      "volumeUSDChange": -71.92446204068051,
+      "volumeUSDWeek": 27641960.606788516,
+      "tvlUSD": 21118774.900443584,
+      "tvlUSDChange": 0.05031217673102657,
+      "tvlToken0": 13554103.036722,
+      "tvlToken1": 6003425.834022
+    },
+    "lastUpdated": 1643502074634
+  },
+  "0x5764a6f2212d502bc5970f9f129ffcd61e5d7563": {
+    "data": {
+      "address": "0x5764a6f2212d502bc5970f9f129ffcd61e5d7563",
+      "feeTier": 10000,
+      "liquidity": 1.5448370615102054e25,
+      "sqrtPrice": 7.221726291682739e24,
+      "tick": -186070,
+      "token0": {
+        "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+        "name": "SHIBA INU",
+        "symbol": "SHIB",
+        "decimals": 18,
+        "derivedETH": 8.308504916842644e-9
+      },
+      "token1": {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "derivedETH": 1
+      },
+      "token0Price": 120358597.60675389,
+      "token1Price": 8.308504916842644e-9,
+      "volumeUSD": 249759.0321314335,
+      "volumeUSDChange": 75.25021453661807,
+      "volumeUSDWeek": 3086823.472099304,
+      "tvlUSD": 20782138.314003326,
+      "tvlUSDChange": -0.9773748906725971,
+      "tvlToken0": 593140379689.7509,
+      "tvlToken1": 3165.231310990631
+    },
+    "lastUpdated": 1643502074634
+  },
+  "0x69d91b94f0aaf8e8a2586909fa77a5c2c89818d5": {
+    "data": {
+      "address": "0x69d91b94f0aaf8e8a2586909fa77a5c2c89818d5",
+      "feeTier": 3000,
+      "liquidity": 286684555269446,
+      "sqrtPrice": 3.3240279586712715e27,
+      "tick": -63427,
+      "token0": {
+        "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+        "name": "HEX",
+        "symbol": "HEX",
+        "decimals": 8,
+        "derivedETH": 0.00006794629520030439
+      },
+      "token1": {
+        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token0Price": 5.681065957060327,
+      "token1Price": 0.17602330399935207,
+      "volumeUSD": 2258742.311647892,
+      "volumeUSDChange": -33.007299445753574,
+      "volumeUSDWeek": 41189904.42347002,
+      "tvlUSD": 20321680.564736832,
+      "tvlUSDChange": -1.2590968305056442,
+      "tvlToken0": 71690168.95588005,
+      "tvlToken1": 7623062.342398
+    },
+    "lastUpdated": 1643502074634
+  },
+  "0xf56d08221b5942c428acc5de8f78489a97fc5599": {
+    "data": {
+      "address": "0xf56d08221b5942c428acc5de8f78489a97fc5599",
+      "feeTier": 3000,
+      "liquidity": 1.2765993630828367e23,
+      "sqrtPrice": 2.6006626045168072e28,
+      "tick": -22281,
+      "token0": {
+        "address": "0x6810e776880c02933d47db1b9fc05908e5386b96",
+        "name": "Gnosis Token",
+        "symbol": "GNO",
+        "decimals": 18,
+        "derivedETH": 0.10774791086153239
+      },
+      "token1": {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "derivedETH": 1
+      },
+      "token0Price": 9.280922404937458,
+      "token1Price": 0.10774791086153239,
+      "volumeUSD": 231757.17855215073,
+      "volumeUSDChange": -39.8382658153337,
+      "volumeUSDWeek": 3072485.4638831615,
+      "tvlUSD": 19445825.91217402,
+      "tvlUSDChange": 0.7990928535438644,
+      "tvlToken0": 33162.48982256355,
+      "tvlToken1": 3896.5677565809287
+    },
+    "lastUpdated": 1643502074634
+  },
+  "0xcb0c5d9d92f4f2f80cce7aa271a1e148c226e19d": {
+    "data": {
+      "address": "0xcb0c5d9d92f4f2f80cce7aa271a1e148c226e19d",
+      "feeTier": 500,
+      "liquidity": 1.221948695363574e27,
+      "sqrtPrice": 1.3856807243981727e29,
+      "tick": 11181,
+      "token0": {
+        "address": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
+        "name": "Rai Reflex Index",
+        "symbol": "RAI",
+        "decimals": 18,
+        "derivedETH": 0.001180025575503426
+      },
+      "token1": {
+        "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "decimals": 18,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token0Price": 0.32691347045299757,
+      "token1Price": 3.0589134140429257,
+      "volumeUSD": 431194.18942928314,
+      "volumeUSDChange": -94.98838896512329,
+      "volumeUSDWeek": 21036907.856746674,
+      "tvlUSD": 19001348.896606784,
+      "tvlUSDChange": 0.8179425426722216,
+      "tvlToken0": 574319.8447927439,
+      "tvlToken1": 17244554.219419207
+    },
+    "lastUpdated": 1643502074634
+  },
+  "0x632e675672f2657f227da8d9bb3fe9177838e726": {
+    "data": {
+      "address": "0x632e675672f2657f227da8d9bb3fe9177838e726",
+      "feeTier": 3000,
+      "liquidity": 3.4598274647452695e23,
+      "sqrtPrice": 8.322807039012336e27,
+      "tick": -45069,
+      "token0": {
+        "address": "0xb4efd85c19999d84251304bda99e90b92300bd93",
+        "name": "Rocket Pool",
+        "symbol": "RPL",
+        "decimals": 18,
+        "derivedETH": 0.011035206999774104
+      },
+      "token1": {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "derivedETH": 1
+      },
+      "token0Price": 90.61905227699584,
+      "token1Price": 0.011035206999774104,
+      "volumeUSD": 349654.4090310931,
+      "volumeUSDChange": -40.2268153259529,
+      "volumeUSDWeek": 7421112.496425927,
+      "tvlUSD": 17976647.833433103,
+      "tvlUSDChange": 1.7809008113646552,
+      "tvlToken0": 537795.8481308548,
+      "tvlToken1": 1000.0956243885197
+    },
+    "lastUpdated": 1643502074634
+  },
+  "0x151ccb92bc1ed5c6d0f9adb5cec4763ceb66ac7f": {
+    "data": {
+      "address": "0x151ccb92bc1ed5c6d0f9adb5cec4763ceb66ac7f",
+      "feeTier": 3000,
+      "liquidity": 2.5970178720855402e22,
+      "sqrtPrice": 1.2403364933612137e28,
+      "tick": -37090,
+      "token0": {
+        "address": "0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd",
+        "name": "ETH 2x Flexible Leverage Index",
+        "symbol": "ETH2x-FLI",
+        "decimals": 18,
+        "derivedETH": 0.024508677437722327
+      },
+      "token1": {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "derivedETH": 1
+      },
+      "token0Price": 40.80187527625861,
+      "token1Price": 0.024508677437722327,
+      "volumeUSD": 1202074.7883310318,
+      "volumeUSDChange": -58.33125113258566,
+      "volumeUSDWeek": 22436541.253154755,
+      "tvlUSD": 17062474.049595322,
+      "tvlUSDChange": 3.90467434308626,
+      "tvlToken0": 213044.9669117748,
+      "tvlToken1": 1330.9552528682436
+    },
+    "lastUpdated": 1643502074634
+  },
+  "0x9496d107a4b90c7d18c703e8685167f90ac273b0": {
+    "data": {
+      "address": "0x9496d107a4b90c7d18c703e8685167f90ac273b0",
+      "feeTier": 3000,
+      "liquidity": 3.159031926711691e23,
+      "sqrtPrice": 1.6436913686728063e27,
+      "tick": -77512,
+      "token0": {
+        "address": "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
+        "name": "agEUR",
+        "symbol": "agEUR",
+        "decimals": 18,
+        "derivedETH": 0.00043156593942571665
+      },
+      "token1": {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "derivedETH": 1
+      },
+      "token0Price": 2323.37128907108,
+      "token1Price": 0.0004304090373776701,
+      "volumeUSD": 993086.7770858705,
+      "volumeUSDChange": -51.050391035127326,
+      "volumeUSDWeek": 15850838.91505336,
+      "tvlUSD": 16363362.394055977,
+      "tvlUSDChange": 3.4542374018337907,
+      "tvlToken0": 5352576.114277378,
+      "tvlToken1": 4005.847768478058
+    },
+    "lastUpdated": 1643502074634
+  },
+  "0x87986ae1e99f99da1f955d16930dc8914ffbed56": {
+    "data": {
+      "address": "0x87986ae1e99f99da1f955d16930dc8914ffbed56",
+      "feeTier": 3000,
+      "liquidity": 2.6192412346128066e25,
+      "sqrtPrice": 1.755134763706177e29,
+      "tick": 15908,
+      "token0": {
+        "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "decimals": 18,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token1": {
+        "address": "0xf5581dfefd8fb0e4aec526be659cfab1f8c781da",
+        "name": "HOPR Token",
+        "symbol": "HOPR",
+        "decimals": 18,
+        "derivedETH": 0.00007998970511804956
+      },
+      "token0Price": 0.20376905475626164,
+      "token1Price": 4.907516507823772,
+      "volumeUSD": 20126.317370645702,
+      "volumeUSDChange": -27.386040841639687,
+      "volumeUSDWeek": 1040912.9285340682,
+      "tvlUSD": 16254354.191794818,
+      "tvlUSDChange": -0.17712475034449376,
+      "tvlToken0": 7762026.904987266,
+      "tvlToken1": 41676236.34985032
+    },
+    "lastUpdated": 1643502074634
+  },
+  "0xc5af84701f98fa483ece78af83f11b6c38aca71d": {
+    "data": {
+      "address": "0xc5af84701f98fa483ece78af83f11b6c38aca71d",
+      "feeTier": 10000,
+      "liquidity": 9745643300179184,
+      "sqrtPrice": 4.043867816366336e24,
+      "tick": -197668,
+      "token0": {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "derivedETH": 1
+      },
+      "token1": {
+        "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token0Price": 0.0003838532880831791,
+      "token1Price": 2605.162000809291,
+      "volumeUSD": 11807.283618755639,
+      "volumeUSDChange": -69.88138102979062,
+      "volumeUSDWeek": 614955.948964566,
+      "tvlUSD": 16199476.482905162,
+      "tvlUSDChange": 0.39428430758115407,
+      "tvlToken0": 6092.784282693661,
+      "tvlToken1": 414236.088719
+    },
+    "lastUpdated": 1643502074634
+  },
+  "0xb404057ee4b1d7359ca5a57ac1c020b74c23e56b": {
+    "data": {
+      "address": "0xb404057ee4b1d7359ca5a57ac1c020b74c23e56b",
+      "feeTier": 3000,
+      "liquidity": 3.7585505082038867e22,
+      "sqrtPrice": 1.0011230777169758e28,
+      "tick": -41375,
+      "token0": {
+        "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+        "name": "FTT",
+        "symbol": "FTX Token",
+        "decimals": 18,
+        "derivedETH": 0.015966722525579232
+      },
+      "token1": {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "derivedETH": 1
+      },
+      "token0Price": 62.63026105689292,
+      "token1Price": 0.015966722525579232,
+      "volumeUSD": 655678.944913432,
+      "volumeUSDChange": 92.81071696376961,
+      "volumeUSDWeek": 7303243.239358187,
+      "tvlUSD": 16143397.984653356,
+      "tvlUSDChange": 3.0098520252464143,
+      "tvlToken0": 274149.7998229725,
+      "tvlToken1": 1834.149722101567
+    },
+    "lastUpdated": 1643502074634
+  },
+  "0x7858e59e0c01ea06df3af3d20ac7b0003275d4bf": {
+    "data": {
+      "address": "0x7858e59e0c01ea06df3af3d20ac7b0003275d4bf",
+      "feeTier": 500,
+      "liquidity": 6395633761707384,
+      "sqrtPrice": 7.923100735995391e28,
+      "tick": 0,
+      "token0": {
+        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token1": {
+        "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token0Price": 0.9999281898662842,
+      "token1Price": 1.0000718152907815,
+      "volumeUSD": 4086824.461192131,
+      "volumeUSDChange": 237.17506614032553,
+      "volumeUSDWeek": 27119476.688646317,
+      "tvlUSD": 15985608.708099,
+      "tvlUSDChange": 19.556834579046072,
+      "tvlToken0": 5916482.604776,
+      "tvlToken1": 10069126.103323
+    },
+    "lastUpdated": 1643502074634
+  },
+  "0xa6cc3c2531fdaa6ae1a3ca84c2855806728693e8": {
+    "data": {
+      "address": "0xa6cc3c2531fdaa6ae1a3ca84c2855806728693e8",
+      "feeTier": 3000,
+      "liquidity": 7.752806268940788e22,
+      "sqrtPrice": 6.254589654997774e27,
+      "tick": -50783,
+      "token0": {
+        "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+        "name": "ChainLink Token",
+        "symbol": "LINK",
+        "decimals": 18,
+        "derivedETH": 0.006232158311513381
+      },
+      "token1": {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "derivedETH": 1
+      },
+      "token0Price": 160.4580548206847,
+      "token1Price": 0.006232158311513381,
+      "volumeUSD": 2249747.981221676,
+      "volumeUSDChange": -19.954697110798833,
+      "volumeUSDWeek": 30284935.777052402,
+      "tvlUSD": 15746126.815827651,
+      "tvlUSDChange": 2.8743936362123237,
+      "tvlToken0": 600926.3070425463,
+      "tvlToken1": 2295.0117454812485
+    },
+    "lastUpdated": 1643502074634
+  },
+  "0x6f48eca74b38d2936b02ab603ff4e36a6c0e3a77": {
+    "data": {
+      "address": "0x6f48eca74b38d2936b02ab603ff4e36a6c0e3a77",
+      "feeTier": 500,
+      "liquidity": 1.6397177321384042e22,
+      "sqrtPrice": 7.922289052014802e22,
+      "tick": -276326,
+      "token0": {
+        "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "decimals": 18,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token1": {
+        "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token0Price": 1.0001330971262896,
+      "token1Price": 0.9998669205861979,
+      "volumeUSD": 651237.7684388161,
+      "volumeUSDChange": -79.76461080084782,
+      "volumeUSDWeek": 32076891.223971367,
+      "tvlUSD": 15656009.323395083,
+      "tvlUSDChange": 5.634979885105687,
+      "tvlToken0": 10584500.099419082,
+      "tvlToken1": 5071509.223976
+    },
+    "lastUpdated": 1643502074634
+  },
+  "0x83abecf7204d5afc1bea5df734f085f2535a9976": {
+    "data": {
+      "address": "0x83abecf7204d5afc1bea5df734f085f2535a9976",
+      "feeTier": 10000,
+      "liquidity": 3.5979483500735946e23,
+      "sqrtPrice": 4.589503672174827e26,
+      "tick": -103029,
+      "token0": {
+        "address": "0x7a58c0be72be218b41c608b7fe7c5bb630736c71",
+        "name": "ConstitutionDAO",
+        "symbol": "PEOPLE",
+        "decimals": 18,
+        "derivedETH": 0.00003355616149753015
+      },
+      "token1": {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "derivedETH": 1
+      },
+      "token0Price": 29800.78636448342,
+      "token1Price": 0.00003355616149753015,
+      "volumeUSD": 3224367.725895524,
+      "volumeUSDChange": 410.7151768291156,
+      "volumeUSDWeek": 7657815.516730428,
+      "tvlUSD": 15535934.707465818,
+      "tvlUSDChange": 39.660510546015345,
+      "tvlToken0": 132552043.40421593,
+      "tvlToken1": 1511.5139535007306
+    },
+    "lastUpdated": 1643502074634
+  },
+  "0xa6de8dbae7b2504a7bec7b0dc7783e46565e9f75": {
+    "data": {
+      "address": "0xa6de8dbae7b2504a7bec7b0dc7783e46565e9f75",
+      "feeTier": 100,
+      "liquidity": 1.4989097471901002e22,
+      "sqrtPrice": 7.92304242837117e22,
+      "tick": -276324,
+      "token0": {
+        "address": "0x8e870d67f660d95d5be530380d0ec0bd388289e1",
+        "name": "Paxos Standard",
+        "symbol": "PAX",
+        "decimals": 18,
+        "derivedETH": 0.0003844625007770347
+      },
+      "token1": {
+        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token0Price": 0.9999429073569972,
+      "token1Price": 1.0000570959027588,
+      "volumeUSD": 1310299.0959590077,
+      "volumeUSDChange": -80.96635018375828,
+      "volumeUSDWeek": 24267018.74633801,
+      "tvlUSD": 14985207.443100045,
+      "tvlUSDChange": -0.3927187869626504,
+      "tvlToken0": 6340568.693448187,
+      "tvlToken1": 8654951.773558
+    },
+    "lastUpdated": 1643502074634
+  },
+  "0x4b5ab61593a2401b1075b90c04cbcdd3f87ce011": {
+    "data": {
+      "address": "0x4b5ab61593a2401b1075b90c04cbcdd3f87ce011",
+      "feeTier": 3000,
+      "liquidity": 5.634189232835396e23,
+      "sqrtPrice": 1.8021316536222695e30,
+      "tick": 62490,
+      "token0": {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "derivedETH": 1
+      },
+      "token1": {
+        "address": "0xf4d2888d29d722226fafa5d9b24f9164c092421e",
+        "name": "LooksRare Token",
+        "symbol": "LOOKS",
+        "decimals": 18,
+        "derivedETH": 0.0019327965318025012
+      },
+      "token0Price": 0.0019327965318025012,
+      "token1Price": 517.3850343509324,
+      "volumeUSD": 71030660.21352863,
+      "volumeUSDChange": -5.141705113957546,
+      "volumeUSDWeek": 469916855.5551872,
+      "tvlUSD": 14561206.668040793,
+      "tvlUSDChange": 2.8671285263139126,
+      "tvlToken0": 2988.03666944521,
+      "tvlToken1": 1343916.7931859482
+    },
+    "lastUpdated": 1643502074634
+  },
+  "0xb143bbeb287dcd1034da6e7186ec695316fff78f": {
+    "data": {
+      "address": "0xb143bbeb287dcd1034da6e7186ec695316fff78f",
+      "feeTier": 10000,
+      "liquidity": 14071487202967857000,
+      "sqrtPrice": 4.9300077413820795e22,
+      "tick": -285813,
+      "token0": {
+        "address": "0x3e5d9d8a63cc8a88748f229999cf59487e90721e",
+        "name": "MetalSwap",
+        "symbol": "XMT",
+        "decimals": 18,
+        "derivedETH": 0.000148516824197656
+      },
+      "token1": {
+        "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token0Price": 2.5826405465847873,
+      "token1Price": 0.3872006119172769,
+      "volumeUSD": 3459.838977999985,
+      "volumeUSDChange": -97.44789736449945,
+      "volumeUSDWeek": 872421.46315521,
+      "tvlUSD": 14067928.430169368,
+      "tvlUSDChange": -0.06193565011418394,
+      "tvlToken0": 28605274.240851887,
+      "tvlToken1": 2991948.74005
+    },
+    "lastUpdated": 1643502074634
+  },
+  "0xea4ba4ce14fdd287f380b55419b1c5b6c3f22ab6": {
+    "data": {
+      "address": "0xea4ba4ce14fdd287f380b55419b1c5b6c3f22ab6",
+      "feeTier": 3000,
+      "liquidity": 351436329859228430000,
+      "sqrtPrice": 1.7467958694066746e28,
+      "tick": -30241,
+      "token0": {
+        "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+        "name": "Compound",
+        "symbol": "COMP",
+        "decimals": 18,
+        "derivedETH": 0.048609946723896055
+      },
+      "token1": {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "derivedETH": 1
+      },
+      "token0Price": 20.57192133289075,
+      "token1Price": 0.048609946723896055,
+      "volumeUSD": 6476.70530551672,
+      "volumeUSDChange": 33.59651058859147,
+      "volumeUSDWeek": 50494.541915655136,
+      "tvlUSD": 13219275.851458328,
+      "tvlUSDChange": -0.4000933444431586,
+      "tvlToken0": 100682.45697911028,
+      "tvlToken1": 288.8965166292131
+    },
+    "lastUpdated": 1643502074634
+  },
+  "0xbd5fdda17bc27bb90e37df7a838b1bfc0dc997f5": {
+    "data": {
+      "address": "0xbd5fdda17bc27bb90e37df7a838b1bfc0dc997f5",
+      "feeTier": 500,
+      "liquidity": 3966799450860,
+      "sqrtPrice": 7.429533737188618e26,
+      "tick": -93394,
+      "token0": {
+        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token1": {
+        "address": "0xdb25f211ab05b1c97d595516f45794528a807ad8",
+        "name": "STASIS EURS Token",
+        "symbol": "EURS",
+        "decimals": 2,
+        "derivedETH": 0.0004428673476738127
+      },
+      "token0Price": 1.137197900374027,
+      "token1Price": 0.8793544199044844,
+      "volumeUSD": 948892.8739100695,
+      "volumeUSDChange": -81.12024996889967,
+      "volumeUSDWeek": 17085839.72472,
+      "tvlUSD": 13042093.232617069,
+      "tvlUSDChange": 0.10228700644278622,
+      "tvlToken0": 7827539.946471,
+      "tvlToken1": 4585440.48
+    },
+    "lastUpdated": 1643502074634
+  },
+  "0x8ce5796ef6b0c5918025bcf4f9ca908201b030b3": {
+    "data": {
+      "address": "0x8ce5796ef6b0c5918025bcf4f9ca908201b030b3",
+      "feeTier": 500,
+      "liquidity": 8.936993270079107e25,
+      "sqrtPrice": 8.37826567457158e28,
+      "tick": 1117,
+      "token0": {
+        "address": "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
+        "name": "agEUR",
+        "symbol": "agEUR",
+        "decimals": 18,
+        "derivedETH": 0.00043156593942571665
+      },
+      "token1": {
+        "address": "0x853d955acef822db058eb8505911ed77f175b99e",
+        "name": "Frax",
+        "symbol": "FRAX",
+        "decimals": 18,
+        "derivedETH": 0.0003834040435826184
+      },
+      "token0Price": 0.8942334517763678,
+      "token1Price": 1.1182762152472938,
+      "volumeUSD": 0,
+      "volumeUSDChange": 0,
+      "volumeUSDWeek": 0,
+      "tvlUSD": 12960942.501040574,
+      "tvlUSDChange": -0.557193473693268,
+      "tvlToken0": 7057206.776005719,
+      "tvlToken1": 5147225.494322672
+    },
+    "lastUpdated": 1643502074634
+  },
+  "0x60594a405d53811d3bc4766596efd80fd545a270": {
+    "data": {
+      "address": "0x60594a405d53811d3bc4766596efd80fd545a270",
+      "feeTier": 500,
+      "liquidity": 1.4630647646948078e23,
+      "sqrtPrice": 1.5535113524237366e27,
+      "tick": -78641,
+      "token0": {
+        "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "decimals": 18,
+        "derivedETH": 0.00038359145046718056
+      },
+      "token1": {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "derivedETH": 1
+      },
+      "token0Price": 2600.9398277247706,
+      "token1Price": 0.00038447640708196316,
+      "volumeUSD": 4644394.080123901,
+      "volumeUSDChange": 1.3723461852514294,
+      "volumeUSDWeek": 66850888.896217346,
+      "tvlUSD": 12524361.967290275,
+      "tvlUSDChange": 0.6217991341429895,
+      "tvlToken0": 5165401.488964562,
+      "tvlToken1": 2822.8343238116167
+    },
+    "lastUpdated": 1643502074634
+  }
+}

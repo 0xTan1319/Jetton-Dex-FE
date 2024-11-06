@@ -1,0 +1,1 @@
+export { NotificationsFeed } from './NotificationsFeed';

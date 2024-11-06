@@ -1,0 +1,16 @@
+.wallet-menu-item {
+  display: grid;
+  grid-template-columns: 40px 1fr;
+  gap: 1rem;
+  grid-template-rows: auto;
+  align-items: center;
+  > img {
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.wallet-menu__copy-icon,
+.wallet-menu__copied-icon {
+  margin-bottom: -2px;
+}

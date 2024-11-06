@@ -1,0 +1,87 @@
+$animationFadeIn: fade-in 0.8s cubic-bezier(0.39, 0.575, 0.565, 1) both;
+$animationFadeOut: fade-out 0.4s cubic-bezier(0.39, 0.575, 0.565, 1) both;
+$animationTransition: 0.3s cubic-bezier(0.22, 0.61, 0.36, 1);
+$animationTextFocusIn: text-focus-in 0.5s cubic-bezier(0.55, 0.085, 0.68, 0.53)
+  both;
+$animationTextFocusOut: text-focus-out 1.2s
+  cubic-bezier(0.55, 0.085, 0.68, 0.53) both;
+$animationInContract: tracking-in-contract 0.8s
+  cubic-bezier(0.215, 0.61, 0.355, 1) both;
+$animationOutContract: tracking-out-contract 0.8s
+  cubic-bezier(0.215, 0.61, 0.355, 1) both;
+
+.fade-in {
+  animation: $animationFadeIn;
+}
+.text-focus-in {
+  animation: $animationTextFocusIn;
+}
+.text-focus-out {
+  animation: $animationTextFocusOut;
+}
+
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes fade-out {
+  0% {
+    opacity: 01;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+@keyframes text-focus-in {
+  0% {
+    filter: blur(1px);
+    opacity: 0.8;
+  }
+  100% {
+    filter: blur(0px);
+    opacity: 1;
+  }
+}
+
+@keyframes text-focus-out {
+  0% {
+    -webkit-filter: blur(0.01);
+    filter: blur(0.01);
+  }
+  100% {
+    -webkit-filter: blur(12px) opacity(0%);
+    filter: blur(12px) opacity(0%);
+  }
+}
+
+@keyframes tracking-in-contract {
+  0% {
+    letter-spacing: 1em;
+    opacity: 0;
+  }
+  40% {
+    opacity: 0.6;
+  }
+  100% {
+    letter-spacing: normal;
+    opacity: 1;
+  }
+}
+@keyframes tracking-out-contract {
+  0% {
+    letter-spacing: normal;
+    opacity: 1;
+  }
+  40% {
+    opacity: 0.6;
+  }
+  100% {
+    letter-spacing: 1em;
+    opacity: 0;
+  }
+}

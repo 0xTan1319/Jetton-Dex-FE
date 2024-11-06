@@ -1,0 +1,80 @@
+{
+  "blockNumber": "14090788",
+  "amount": "23000000000000000000",
+  "amountDecimals": "23",
+  "quote": "24469313255305632479537",
+  "quoteDecimals": "24469.313255305632479537",
+  "quoteGasAdjusted": "24423344341815935117357",
+  "quoteGasAdjustedDecimals": "24423.344341815935117357",
+  "gasUseEstimateQuote": "45968913489697362179",
+  "gasUseEstimateQuoteDecimals": "45.968913489697362179",
+  "gasUseEstimate": "228000",
+  "gasUseEstimateUSD": "103.124439503081786665",
+  "gasPriceWei": "187617567810",
+  "route": [
+    [
+      {
+        "type": "v3-pool",
+        "address": "0x8661aE7918C0115Af9e3691662f605e9c550dDc9",
+        "tokenIn": {
+          "chainId": 1,
+          "decimals": "18",
+          "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+          "symbol": "WETH"
+        },
+        "tokenOut": {
+          "chainId": 1,
+          "decimals": "18",
+          "address": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
+          "symbol": "MANA"
+        },
+        "fee": "3000",
+        "liquidity": "91103456994025791199758",
+        "sqrtRatioX96": "2418572214130050516565513455",
+        "tickCurrent": "-69787",
+        "amountIn": "17250000000000000000",
+        "amountOut": "18342051019392050275446"
+      }
+    ],
+    [
+      {
+        "type": "v2-pool",
+        "address": "0x11b1f53204d03E5529F09EB3091939e4Fd8c9CF3",
+        "tokenIn": {
+          "chainId": 1,
+          "decimals": "18",
+          "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+          "symbol": "WETH"
+        },
+        "tokenOut": {
+          "chainId": 1,
+          "decimals": "18",
+          "address": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
+          "symbol": "MANA"
+        },
+        "reserve0": {
+          "token": {
+            "chainId": 1,
+            "decimals": "18",
+            "address": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
+            "symbol": "MANA"
+          },
+          "quotient": "903365425138202701402969"
+        },
+        "reserve1": {
+          "token": {
+            "chainId": 1,
+            "decimals": "18",
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+            "symbol": "WETH"
+          },
+          "quotient": "839468245414695344466"
+        },
+        "amountIn": "5750000000000000000",
+        "amountOut": "6127262235913582204091"
+      }
+    ]
+  ],
+  "routeString": "[V3] 75.00% = WETH -- 0.3% --> MANA, [V2] 25.00% = WETH --> MANA",
+  "quoteId": "c991f"
+}

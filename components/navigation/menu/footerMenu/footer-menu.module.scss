@@ -1,0 +1,55 @@
+@import '../../../../styles/animations.scss';
+@import '../../../../styles/breakpoints.scss';
+
+$menuItemColor: var(--primary-color);
+$menuItemHoverColor: var(--text-color);
+$menuItemActiveColor: $menuItemHoverColor;
+$underlineColor: var(--underline-color);
+$animationTranition: 0.3s cubic-bezier(0.22, 0.61, 0.36, 1);
+$footerMenuItemSize: 24px;
+
+.footer-menu {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.footer-menu-item {
+  position: relative;
+  user-select: none;
+  display: flex;
+  gap: 0.2rem;
+  align-items: center;
+  cursor: pointer;
+  padding: 0.1rem 0;
+  text-decoration: none;
+  color: $menuItemColor;
+  transition: color $animationTranition;
+  h5 {
+    margin-bottom: 0;
+    font-size: 1rem;
+  }
+  &:hover {
+    color: $menuItemHoverColor;
+    text-decoration: none;
+  }
+}
+
+.footer-menu-item-icon {
+  width: $footerMenuItemSize;
+}
+
+@media screen and (min-width: $xs) {
+  .footer-menu-item {
+    gap: 0.5rem;
+    h5 {
+      font-size: var(--h5-font-size);
+    }
+  }
+  .footer-menu-item-icon {
+    width: 20px;
+  }
+  .footer-menu {
+    gap: 2rem;
+  }
+}

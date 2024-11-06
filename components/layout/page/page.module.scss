@@ -1,0 +1,34 @@
+.page-content {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto;
+}
+
+.with-sidebar {
+  grid-template-columns: auto 1fr;
+}
+// .with-breadcrumb {
+//   grid-template-columns: auto 1fr;
+//   grid-template-areas:
+//     'breadcrumb'
+//     'content'
+//     'sidebar';
+//   .sidebar {
+//     grid-area: sidebar;
+//   }
+//   .breadcrumb {
+//     grid-area: breadcrumb;
+//   }
+//   .content {
+//     grid-area: content;
+//   }
+// }
+
+.content-wrapper {
+  // display: flex;
+  // flex-wrap: wrap;
+}
+
+.content {
+  padding: 1rem;
+}

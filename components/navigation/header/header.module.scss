@@ -1,0 +1,60 @@
+@import '../../../styles/breakpoints.scss';
+
+$headerHeight: 100px;
+
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 3;
+  display: grid;
+  grid-template-columns: 100px 1fr auto;
+  height: $headerHeight;
+  width: 100%;
+  padding: 0 1rem;
+  background-color: var(--bg-color);
+  box-shadow: var(--header-shadow);
+}
+
+.header-left-side {
+  display: flex;
+  align-items: center;
+}
+.header-center-side {
+  display: none;
+  align-items: center;
+  justify-content: center;
+}
+.header-right-side {
+  justify-self: end;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.menu-trigger {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  padding: 0.5rem;
+  color: var(--text-color);
+}
+
+.logo {
+  width: 85px;
+  img {
+    width: 100%;
+    height: 100%;
+  }
+}
+
+@media screen and (min-width: $md) {
+  .header-center-side {
+    display: flex;
+  }
+}
+@media screen and (min-width: $md) {
+  .header {
+    grid-template-columns: 100px 1fr auto auto;
+  }
+}

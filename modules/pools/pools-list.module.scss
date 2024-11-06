@@ -1,0 +1,143 @@
+@import '../../styles/breakpoints.scss';
+
+$tokenIconSize: 36px;
+$poolFiltersIconSize: 26px;
+$tokensWith: 70px;
+$tokensheight: $tokenIconSize;
+
+.pool-list {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  flex-flow: column nowrap;
+  gap: 1rem;
+}
+
+.pool-list-item {
+  display: grid;
+  align-items: center;
+  gap: 1rem;
+  grid-template-columns: $tokensWith 1fr repeat(4, 1fr);
+  border-bottom: 1px solid var(--border-color);
+  padding: 10px 0;
+  position: relative;
+}
+
+.pool-list-item-token-title {
+  font-size: var(--h5-font-size);
+  font-weight: 600;
+  color: var(--secondary-text-color);
+}
+
+.pool-list-item-tokens {
+  position: relative;
+  width: 100%;
+  height: $tokensheight;
+  img:nth-child(1) {
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 2;
+  }
+  img:nth-child(2) {
+    position: absolute;
+    left: $tokenIconSize * 0.7;
+    top: 0px;
+    z-index: 1;
+  }
+}
+.pool-list-item-token-icon {
+  width: $tokenIconSize;
+  height: $tokenIconSize;
+}
+
+.pool-list-column {
+  display: flex;
+  flex-flow: column wrap;
+  color: var(--text-color);
+}
+.pool-list-colum-title {
+  font-weight: 900;
+  font-size: 11px;
+  color: var(--text-color);
+}
+.pool-list-colum-text {
+  font-size: 1rem;
+  color: var(--grey-color);
+}
+
+.load-more {
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.pools-filters {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  width: 100%;
+  background: var(--bg-display-color);
+  box-shadow: var(--header-shadow);
+  padding: 1rem;
+  border-radius: var(--border-radius-base);
+}
+.pools-filters-view {
+  display: none;
+  gap: 1rem;
+  grid-template-columns: auto 1fr;
+  grid-template-rows: 1fr;
+  align-items: center;
+  svg {
+    width: $poolFiltersIconSize;
+    height: $poolFiltersIconSize;
+  }
+}
+
+.pools-filters-stacked-switch {
+  display: none;
+  justify-content: center;
+  gap: 0.5rem;
+  align-items: center;
+  width: 100%;
+  max-width: 150px;
+}
+
+.pools-filters-live {
+  display: none;
+  .ant-radio-group {
+    width: 100%;
+  }
+}
+
+.pools-filters-sort-select {
+  display: none;
+}
+.pools-filters-search {
+  width: 100%;
+  max-width: 550px;
+}
+
+.pools-filters-create-pool-btn {
+}
+
+@media screen and (min-width: $xs) {
+  .pools-filters-view {
+    display: grid;
+  }
+}
+@media screen and (min-width: $sm) {
+  .pools-filters-stacked-switch {
+    display: flex;
+  }
+}
+@media screen and (min-width: $md) {
+  .pools-filters-sort-select {
+    display: block;
+  }
+}
+@media screen and (min-width: $xl) {
+  .pools-filters-live {
+    display: block;
+  }
+}

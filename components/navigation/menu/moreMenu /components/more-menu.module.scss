@@ -1,0 +1,31 @@
+.more-menu-item {
+  display: grid;
+  grid-template-columns: 40px 1fr;
+  gap: 0.2rem;
+  grid-template-rows: auto;
+  align-items: center;
+  h6 {
+    color: var(--text-color);
+  }
+  > img {
+    color: var(--primary-color);
+  }
+}
+
+.more-menu-item-icon {
+  width: 24px;
+  height: 24px;
+  fill: var(--primary-color);
+}
+
+.more-menu-item-theme-switch {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+.more-menu-item-language {
+  display: flex;
+  justify-content: flex-end;
+  margin: 0.5rem 0.5rem 0 0;
+  cursor: pointer;
+}

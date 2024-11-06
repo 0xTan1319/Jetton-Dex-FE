@@ -1,0 +1,19 @@
+.wallet-menu-item {
+  display: grid;
+  grid-template-columns: 40px 1fr;
+  gap: 0.2rem;
+  grid-template-rows: auto;
+  align-items: center;
+  h6 {
+    color: var(--text-color);
+  }
+  > img {
+    color: var(--primary-color);
+  }
+}
+
+.wallet-menu-item-icon {
+  width: 24px;
+  height: 24px;
+  fill: var(--primary-color);
+}

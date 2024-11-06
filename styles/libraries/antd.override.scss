@@ -1,0 +1,308 @@
+$primaryColor: var(--primary-color);
+$secondaryColor: var(--secondary-color);
+$bgColor: var(--bg-color);
+$bgGradientColor: var(--bg-gradient-color);
+$bgDisplayColor: var(--bg-display-color);
+$textColor: var(--text-color);
+$SecondarytextColor: var(--secondary-text-color);
+$selectorsBgColor: var(--selectors-bg-color);
+$greyColor: var(--grey-color);
+$greyMediumColor: var(--grey-medium-color);
+$greyLigthColor: var(--grey-ligth-color);
+$panelBgColor: var(--panel-bg-color);
+$panelInnerShadow: var(--panel-inner-shadow);
+$borderColor: var(--border-color);
+$breadcrumbColor: var(--breadcrumb-color);
+$borderRadiusBase: var(--border-radius-base);
+$dropdownBorderRadius: var(--dropdown-border-radius);
+$cardShadow: var(--header-shadow);
+$h1FontSize: var(--h1-font-size);
+$h2FontSize: var(--h2-font-size);
+$h3FontSize: var(--h3-font-size);
+$h4FontSize: var(--h4-font-size);
+$h5FontSize: var(--h5-font-size);
+$h6FontSize: var(--h6-font-size);
+
+.typography {
+  &.ant-typography {
+    color: inherit;
+    font-size: inherit;
+    margin-bottom: inherit;
+    kbd {
+      background: $bgColor;
+    }
+  }
+}
+h1.typography.ant-typography {
+  font-size: $h1FontSize;
+}
+h2.typography.ant-typography {
+  font-size: $h2FontSize;
+}
+h3.typography.ant-typography {
+  font-size: $h3FontSize;
+}
+h4.typography.ant-typography {
+  font-size: $h4FontSize;
+}
+h5.typography.ant-typography {
+  font-size: $h5FontSize;
+}
+h6.typography.ant-typography {
+  font-size: $h6FontSize;
+}
+
+.button {
+  &.ant-btn {
+    border-radius: $borderRadiusBase;
+  }
+}
+
+.drawer {
+  &.ant-drawer {
+    .ant-drawer-content {
+      background-color: $bgColor;
+      .ant-drawer-header {
+        background-color: $bgColor;
+        button {
+          color: $textColor;
+        }
+      }
+    }
+  }
+}
+
+.card {
+  &.ant-card {
+    background-color: $bgDisplayColor;
+    border-radius: $borderRadiusBase;
+    color: $textColor;
+    box-shadow: $cardShadow;
+    .ant-card-head {
+      color: $textColor;
+      border-bottom: none;
+    }
+  }
+  &.ant-card-bordered {
+    border-color: $borderColor;
+  }
+}
+
+.ant-pagination-next .ant-pagination-item-link,
+.ant-pagination-prev .ant-pagination-item-link {
+  background-color: $bgColor;
+}
+.ant-pagination-disabled .ant-pagination-item-link,
+.ant-pagination-disabled:focus-visible .ant-pagination-item-link,
+.ant-pagination-disabled:hover .ant-pagination-item-link {
+  color: $textColor;
+  border-color: $borderColor;
+}
+
+.ant-pagination-item-active {
+  background: $bgColor;
+}
+
+.ant-menu {
+  color: $textColor;
+  background: $bgDisplayColor;
+  border-radius: $dropdownBorderRadius;
+}
+.ant-menu-inline,
+.ant-menu-vertical,
+.ant-menu-vertical-left {
+  border-right: 1px solid $borderColor;
+}
+.ant-menu-light .ant-menu-item-active,
+.ant-menu-light .ant-menu-item:hover,
+.ant-menu-light .ant-menu-submenu-active,
+.ant-menu-light .ant-menu-submenu-title:hover,
+.ant-menu-light .ant-menu:not(.ant-menu-inline) .ant-menu-submenu-open {
+  color: $textColor;
+}
+
+.dropdown.ant-dropdown {
+  color: $textColor;
+  background: $bgDisplayColor;
+  border-radius: $dropdownBorderRadius;
+  .ant-dropdown-menu {
+    background: inherit;
+    border-radius: $dropdownBorderRadius;
+  }
+}
+.dropdown .ant-dropdown-menu-item:hover,
+.ant-dropdown-menu-submenu-title:hover {
+  background-color: $selectorsBgColor;
+}
+
+.ant-input-affix-wrapper {
+  background-color: $bgDisplayColor;
+  border-radius: $borderRadiusBase;
+  border-color: $borderColor;
+  box-shadow: $panelInnerShadow;
+}
+.ant-input {
+  background-color: $bgDisplayColor;
+  border-radius: $borderRadiusBase;
+  border: 1px solid $borderColor;
+  color: $greyColor;
+  &::placeholder {
+    color: $greyColor;
+  }
+}
+.ant-input-affix-wrapper.token-input-value input.ant-input {
+  padding: 0 0.5rem;
+}
+.token-input-value .ant-input {
+  font-size: 2rem;
+}
+
+.ant-slider {
+  .ant-slider-rail {
+    background-color: $borderColor;
+  }
+  .ant-slider-mark-text {
+    color: $greyColor;
+  }
+  .ant-slider-mark-text-active {
+    color: $textColor;
+    font-weight: 600;
+  }
+  .ant-slider-track {
+    background-color: $primaryColor;
+  }
+  .ant-slider-handle {
+    border: 2px solid $primaryColor;
+  }
+  .ant-slider-dot-active {
+    border-color: $primaryColor;
+  }
+  &:hover {
+    .ant-slider-track {
+      background-color: $primaryColor;
+    }
+    .ant-slider-rail {
+      background-color: $greyMediumColor;
+    }
+    .ant-slider-handle:not(.ant-tooltip-open) {
+      border-color: $primaryColor;
+    }
+  }
+}
+
+.ant-list {
+  box-shadow: $cardShadow;
+  border-radius: $borderRadiusBase;
+  background: $bgDisplayColor;
+  padding: 1rem;
+  .ant-list-items {
+    border-radius: $borderRadiusBase;
+  }
+  .list-item {
+    background: $bgDisplayColor;
+    color: $textColor;
+  }
+}
+
+.ant-radio-button-wrapper:first-child {
+  border-radius: $borderRadiusBase 0 0 $borderRadiusBase;
+}
+.ant-radio-button-wrapper:last-child {
+  border-radius: 0 $borderRadiusBase $borderRadiusBase 0;
+}
+
+.ant-select:not(.ant-select-customize-input) .ant-select-selector {
+  border-radius: $borderRadiusBase;
+}
+.ant-input-search
+  > .ant-input-group
+  > .ant-input-group-addon:last-child
+  .ant-input-search-button {
+  border-radius: 0 $borderRadiusBase $borderRadiusBase 0;
+}
+
+.ant-select-dropdown {
+  border-radius: $dropdownBorderRadius;
+  background: $bgDisplayColor;
+  color: $textColor;
+  box-shadow: $cardShadow;
+}
+
+.ant-select-item {
+  color: $textColor;
+}
+
+.ant-select-item-option-selected:not(.ant-select-item-option-disabled) {
+  background-color: $selectorsBgColor;
+  color: $textColor;
+}
+.ant-select-item-option-active:not(.ant-select-item-option-disabled) {
+  background-color: $selectorsBgColor;
+}
+.ant-select:not(.ant-select-customize-input) .ant-select-selector {
+  color: $textColor;
+  background: $bgDisplayColor;
+}
+.ant-select-arrow {
+  color: $textColor;
+  opacity: 0.25;
+}
+.ant-select:not(.ant-select-customize-input) .ant-select-selector {
+  border: 1px solid $borderColor;
+}
+
+.ant-input-group-addon {
+  background: $bgDisplayColor;
+}
+.ant-input-group-wrapper .ant-input-group-addon .ant-btn {
+  background: $bgDisplayColor;
+}
+.ant-input-group-wrapper .ant-input-wrapper.ant-input-group .ant-btn {
+  border: 1px solid $borderColor;
+}
+.ant-input-search
+  > .ant-input-group
+  > .ant-input-group-addon:last-child
+  .ant-input-search-button:not(.ant-btn-primary) {
+  color: $textColor;
+}
+
+.ant-input-search .ant-input:focus,
+.ant-input-search .ant-input:hover,
+.ant-select:not(.ant-select-disabled):hover .ant-select-selector {
+  border-color: $borderColor;
+}
+
+.ant-input-search
+  .ant-input:focus
+  + .ant-input-group-addon
+  .ant-input-search-button:not(.ant-btn-primary),
+.ant-input-search
+  .ant-input:hover
+  + .ant-input-group-addon
+  .ant-input-search-button:not(.ant-btn-primary) {
+  border-left-color: $borderColor;
+}
+
+.ant-radio-button-wrapper {
+  background: $bgDisplayColor;
+  color: $textColor;
+  border-color: $borderColor;
+  box-shadow: $panelInnerShadow;
+}
+.ant-radio-button-wrapper:first-child {
+  border-left: 1px solid $borderColor;
+}
+.ant-radio-group-solid
+  .ant-radio-button-wrapper-checked:not(.ant-radio-button-wrapper-disabled):focus-within {
+  box-shadow: $panelInnerShadow;
+}
+.ant-switch {
+  color: $textColor;
+  background-color: $greyColor;
+}
+.ant-switch-checked {
+  background-color: $primaryColor;
+}
+
+// background-color: $selectorsBgColor;
